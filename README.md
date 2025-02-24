@@ -4,13 +4,13 @@ This project applies **unsupervised machine learning models** to detect unusual 
 
 ---
 
-##  Problem Statement  
+## Problem Statement  
 Cryptocurrency markets experience frequent fluctuations, but some anomalies might indicate **unusual activities** such as pump-and-dump schemes, liquidity issues, or significant shifts in investor behavior.  
 This project aims to **detect such anomalies using machine learning**, allowing traders and analysts to identify irregular patterns.
 
 ---
 
-## 🛠 Approach  
+## Approach  
 1. **Exploratory Data Analysis (EDA)**  
    - Visualize **distributions** of price, volume, and market cap  
    - Detect **missing values** and perform data cleaning  
